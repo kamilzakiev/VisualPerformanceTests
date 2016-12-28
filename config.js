@@ -1,6 +1,6 @@
 module.exports = {
 	takeScreenshot: true,
-	verbose: false,
+	verbose: true,
 	timeoutInMs: 50000,
 	testIterations: [
 	    {
