@@ -1,0 +1,12 @@
+{
+  "name": "Visual performance tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "selenium-webdriver": "^3.0.1",
+    "fs": "0.0.1-security"
+  },
+  "author": "Kamil Zakiev",
+  "license": "MIT"
+}
